@@ -6,7 +6,7 @@ server:
 wechat:
   config:
     #配置一个文字的模板ID
-    singleTemplateId:	
+    singleTemplateId:m9qsE_aV9x0WR4Pv996AGGJupLuqzAqQVbGu3cqvTyc	
     template:
       #早安模板
       morningTemplate:
