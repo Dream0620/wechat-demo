@@ -38,7 +38,7 @@ wechat:
       emoticonsTemplate:
         templateId: 7Ck2b8RmhKN_vK8CD6PL5sdaddeDZYACKvfhzI
         allSend: true
-        filterOpenIds: onvNB6R0SGmsfXxIBf5sdZDQrSyQ
+        filterOpenIds: onvNB6Yq2WywjEggRPMVwLgnM8rA
         parameter:
           default:
             title: 1
